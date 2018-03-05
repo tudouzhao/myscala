@@ -1,4 +1,4 @@
-package com.yuzhao.yang
+package com.yuzhao.yang.basic
 
 object ScalaAnonymous {
   def main(args: Array[String]): Unit = {

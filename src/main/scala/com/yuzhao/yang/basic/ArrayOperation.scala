@@ -1,4 +1,4 @@
-package com.yuzhao.yang
+package com.yuzhao.yang.basic
 
 object ArrayOperation {
   def main(args: Array[String]): Unit = {

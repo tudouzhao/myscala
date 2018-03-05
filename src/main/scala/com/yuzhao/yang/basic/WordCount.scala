@@ -1,6 +1,6 @@
-package com.yuzhao.yang
+package com.yuzhao.yang.basic
 
-import org.apache.spark.{SparkContext, SparkConf}
+import org.apache.spark.{SparkConf, SparkContext}
 
 object WordCount {
   def main(args: Array[String]): Unit = {

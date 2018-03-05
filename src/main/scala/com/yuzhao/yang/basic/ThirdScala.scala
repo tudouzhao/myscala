@@ -1,4 +1,4 @@
-package com.yuzhao.yang
+package com.yuzhao.yang.basic
 
 import java.util.Date
 

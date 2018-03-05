@@ -1,4 +1,4 @@
-package com.yuzhao.yang
+package com.yuzhao.yang.basic
 
 object SixScala {
   def main(args: Array[String]): Unit = {
